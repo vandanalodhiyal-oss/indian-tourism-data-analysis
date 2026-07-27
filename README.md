@@ -10,7 +10,7 @@ An end-to-end Data Analytics project analyzing foreign and domestic tourism tren
 ![Overview Page](OVERVIEW.jpeg)
 
 ### 2. Country Analysis
-![Country Analysis Page](COUNTRY%20ANALYSIS.jpeg)
+![Country Analysis Page](COUNTRY.jpeg)
 
 ### 3. Visitor Demographics
 ![Visitor Demographics Page](VISITORE.jpeg)
