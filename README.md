@@ -19,7 +19,7 @@ An end-to-end Data Analytics project analyzing foreign and domestic tourism tren
 ![Airport Page](AIRPORT.jpeg)
 
 ### 5. Key Insights & Conclusion
-![Insights Page](INSIGHTS.jpeg)
+![Insights Page](insight.jpeg)
 
 ---
 
